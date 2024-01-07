@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: RegressionProject
+Version: 0.0.1
+Author: $BABU
+Author-email: srinubabu1911@gmail
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: flask
+Requires-Dist: seaborn
+Requires-Dist: matplotlib
+Requires-Dist: scipy
+Requires-Dist: scikit-learn
+Requires-Dist: requests
+Requires-Dist: cufflinks
+Requires-Dist: ipykernel
